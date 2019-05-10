@@ -1,0 +1,30 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "unpkg",
+      "library": "bootstrap@4.3.1",
+      "files": [],
+      "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "jquery@3.4.1",
+      "files": [],
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "angular@1.7.8",
+      "files": [],
+      "destination": "wwwroot/lib/angular/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "font-awesome@4.7.0",
+      "files": [],
+      "destination": "wwwroot/lib/font-awesome/"
+    }
+  ]
+}
